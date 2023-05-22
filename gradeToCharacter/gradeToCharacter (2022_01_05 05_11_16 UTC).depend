@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1633612253 source:/home/lance/Videos/Programming/gradeToCharacter/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1633612253 source:/home/lance/Videos/Programming/gradeToCharacter/gradeToCharacter.c
+	<stdio.h>
+	<stdlib.h>
+

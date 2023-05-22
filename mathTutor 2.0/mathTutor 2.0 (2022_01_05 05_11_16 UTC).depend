@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635161604 source:c:\programming\mathtutor 2.0\mathtutor2.0.c
+	<stdio.h>
+	<stdlib.h>
+
+1635161604 source:c:\coding\mathtutor 2.0\mathtutor2.0.c
+	<stdio.h>
+	<stdlib.h>
+

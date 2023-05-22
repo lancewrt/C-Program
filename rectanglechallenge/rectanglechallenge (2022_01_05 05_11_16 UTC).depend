@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1632234155 source:c:\users\lance\documents\rectanglechallenge\rectanglechallenge.c
+	<stdio.h>
+
+1632234155 
+
+1632235317 source:/home/lance/Documents/rectanglechallenge/rectanglechallenge.c
+	<stdio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1632229977 source:c:\users\lance\documents\datatype\datatype.c
+	<stdio.h>
+	<stdbool.h>
+
+1632232691 source:c:\users\lance\documents\datatype\try.c
+	<stdio.h>
+	<stdbool.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634047357 source:/home/lance/Videos/Programming/mathTutor 1.0/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634047779 source:/home/lance/Videos/Programming/mathTutor 1.0/mathTutor1.0.c
+	<stdio.h>
+	<stdlib.h>
+

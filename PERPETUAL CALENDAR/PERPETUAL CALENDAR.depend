@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643246015 source:c:\coding\perpetual calendar\main.c
+	<stdlib.h>
+	<stdio.h>
+

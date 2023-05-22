@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633353441 source:/home/lance/Videos/Programming/switch/main.c
+	<stdio.h>
+	<stdlib.h>
+

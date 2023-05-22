@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632821226 source:c:\users\lance\documents\assignment01\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1632821705 source:c:\users\lance\documents\assignment01\triangle.c
+	<stdio.h>
+
+1632822793 source:c:\users\lance\documents\assignment01\parallelogram.c
+	<stdio.h>
+
+1632822707 source:c:\users\lance\documents\assignment01\solidrectangle.c
+	<stdio.h>
+

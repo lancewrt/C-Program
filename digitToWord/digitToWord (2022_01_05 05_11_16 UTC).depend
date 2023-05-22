@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1633446399 source:/home/lance/Videos/Programming/digitToWord/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1633561189 source:/home/lance/Videos/Programming/digitToWord/digitToWord.c
+	<stdio.h>
+	<stdlib.h>
+
